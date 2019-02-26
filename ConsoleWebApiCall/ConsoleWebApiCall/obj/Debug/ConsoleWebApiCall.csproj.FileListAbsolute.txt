@@ -1,0 +1,11 @@
+D:\Documents\Repos\ConsoleWebApiCall\ConsoleWebApiCall\bin\Debug\ConsoleWebApiCall.exe.config
+D:\Documents\Repos\ConsoleWebApiCall\ConsoleWebApiCall\bin\Debug\ConsoleWebApiCall.exe
+D:\Documents\Repos\ConsoleWebApiCall\ConsoleWebApiCall\bin\Debug\ConsoleWebApiCall.pdb
+D:\Documents\Repos\ConsoleWebApiCall\ConsoleWebApiCall\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\Repos\ConsoleWebApiCall\ConsoleWebApiCall\bin\Debug\Newtonsoft.Json.pdb
+D:\Documents\Repos\ConsoleWebApiCall\ConsoleWebApiCall\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\Repos\ConsoleWebApiCall\ConsoleWebApiCall\obj\Debug\ConsoleWebApiCall.csprojAssemblyReference.cache
+D:\Documents\Repos\ConsoleWebApiCall\ConsoleWebApiCall\obj\Debug\ConsoleWebApiCall.csproj.CoreCompileInputs.cache
+D:\Documents\Repos\ConsoleWebApiCall\ConsoleWebApiCall\obj\Debug\ConsoleWebApiCall.csproj.CopyComplete
+D:\Documents\Repos\ConsoleWebApiCall\ConsoleWebApiCall\obj\Debug\ConsoleWebApiCall.exe
+D:\Documents\Repos\ConsoleWebApiCall\ConsoleWebApiCall\obj\Debug\ConsoleWebApiCall.pdb
